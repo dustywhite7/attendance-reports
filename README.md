@@ -10,4 +10,5 @@ The repository contains the following files:
 - power-bi-interface.pdf (a PDF version of the above word document)
 - football-attendance-europe.csv (a comma-separated values file containing attendance figures for european football leagues over time,
      collected from the information available on [http://www.european-football-statistics.co.uk/attn.htm](http://www.european-football-statistics.co.uk/attn.htm))
+- epl-season-rankings.csv (a comma-separated values file containing EPL tables for 2000-2018, collected from [https://fbref.com/en/comps/9/history/Premier-League-Seasons](https://fbref.com/en/comps/9/history/Premier-League-Seasons))
 - REAME.md (this file)
