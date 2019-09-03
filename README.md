@@ -6,8 +6,8 @@ When I teach this material, I typically use Microsoft's PowerBI software, but an
 
 The repository contains the following files:
 
-power-bi-interface.docx (a word document detailing the basics of using Microsoft's PowerBI)
-power-bi-interface.pdf (a PDF version of the above word document)
-football-attendance-europe.csv (a comma-separated values file containing attendance figures for european football leagues over time,
+- power-bi-interface.docx (a word document detailing the basics of using Microsoft's PowerBI)
+- power-bi-interface.pdf (a PDF version of the above word document)
+- football-attendance-europe.csv (a comma-separated values file containing attendance figures for european football leagues over time,
      collected from the information available on [http://www.european-football-statistics.co.uk/attn.htm](http://www.european-football-statistics.co.uk/attn.htm))
-REAME.md (this file)
+- REAME.md (this file)
